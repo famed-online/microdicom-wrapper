@@ -1,6 +1,7 @@
 {
     "name": "rustgit/microdicom",
     "description": "class for connection to Micro Dicom Server",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Rustam Zaynagabdinov",

@@ -86,7 +86,6 @@ class MicroDicom {
     }
 
 
-
     private function curl_send($url, $params=null) {
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);        //return the transfer as a string
