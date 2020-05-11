@@ -1,0 +1,16 @@
+{
+    "name": "rustgit/microdicom",
+    "description": "class for connection to Micro Dicom Server",
+    "authors": [
+        {
+            "name": "Rustam Zaynagabdinov",
+            "email": "zaynagabdinov.rustam@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
