@@ -1,5 +1,5 @@
 {
-    "name": "rustgit/microdicom",
+    "name": "famed-online/microdicom-wrapper",
     "description": "class for connection to Micro Dicom Server",
     "license": "proprietary",
     "authors": [
